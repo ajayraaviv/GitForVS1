@@ -17,6 +17,8 @@ namespace VS_2015_Demo_1
             //more changes
 
             //last change before push
+
+            //Feature 1.1 change
         }
     }
 }
